@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About me:
 I’m an AI-ML and Data Science Developer focused on building scalable, production-ready AI systems that solve real-world problems.<br><br>My work revolves around Machine Learning, Deep Learning, NLP, and LLM-based applications, with strong experience in data preprocessing, model development, and deployment pipelines.<br><br>I enjoy transforming raw data into intelligent, reliable systems and working on projects that combine AI models with real backend architectures.
 
 ## 🌐 Socials:
