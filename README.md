@@ -15,6 +15,3 @@ I have worked on real-world AI systems such as multi-user chatbot platforms, foc
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoncyKeda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=JoncyKeda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
